@@ -1,0 +1,7 @@
+{
+  "name": "HortiFrutti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
